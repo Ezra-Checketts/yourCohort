@@ -2,7 +2,7 @@ The time or name of your cohort:
 fall2023
 
 First names of all your cohort classmates:
-Gunner
+Gunner Hessing
 Charles
 Hamlet
 Sarah
